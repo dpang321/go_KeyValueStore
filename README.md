@@ -1,5 +1,5 @@
 # go_KeyValueStore
-A causally consistent, replicated and sharded key value store with a RESTful API. Runs through the use of a Docker container.
+A causally consistent, replicated and sharded key value store built in Golang with a RESTful API. Runs through the use of a Docker container.
 
 Given a system that is replicated and sharded across numerous nodes, we have an interface that practices Representational State Transfer (REST),
 wherein certain endpoints, when accessed, can either:
